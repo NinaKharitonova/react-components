@@ -4,7 +4,11 @@
   padding: 0;
 }
 
-.containe-header {
+body {
+  background-color: #c4c4c4;
+}
+
+.container-header {
   margin: 34px;
 }
 
@@ -13,4 +17,22 @@ h1 {
 }
 .container {
   width: 27rem;
+  border-radius: 27px;
+}
+
+.btn {
+  background-color: #eba95d;
+  color: #ffffff;
+}
+
+.footer-page {
+  margin-top: 80px;
+  background-color: #393939;
+  padding: 2rem;
+  color: white;
+}
+
+.content-footer {
+  font-size: 12px;
+  text-align: center;
 }
