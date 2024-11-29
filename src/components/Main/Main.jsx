@@ -4,7 +4,7 @@ export default function () {
       <section>
         <div className="container">
           <div className="card">
-            <img src=" /img/foto.webp" alt="" />
+            <img src=" ../src/img/foto.webp" alt="" />
             <div className="card-body">
               <h4>Titolo del post</h4>
               <p>
